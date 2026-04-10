@@ -1,0 +1,6 @@
+[server]
+# Large audio uploads can otherwise cause Streamlit to drop the connection
+# and show "Connection lost" during `st.file_uploader`.
+maxUploadSize = 1024
+maxMessageSize = 1024
+
