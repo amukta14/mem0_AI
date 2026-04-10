@@ -2,7 +2,7 @@
 
 Local voice agent with a Streamlit UI: audio/text input → speech-to-text → action planning → safe local tool execution (restricted to `output/`).
 
-## Links (fill these in)
+## Links
 - Video demo: https://youtu.be/TjJ8u3Jjr0g?si=gqMBe8OiDk2KEz9q
 - Technical article (Substack): https://amukta05.substack.com/p/voice-controlled-local-ai-agent
 
