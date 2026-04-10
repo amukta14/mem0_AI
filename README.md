@@ -4,7 +4,7 @@ Local voice agent with a Streamlit UI: audio/text input → speech-to-text → a
 
 ## Links (fill these in)
 - **Video demo (2–3 min, YouTube unlisted)**: `TODO`
-- **Technical article (Substack / Dev.to / Medium)**: `TODO`
+- **Technical article (Substack): https://amukta05.substack.com/p/voice-controlled-local-ai-agent
 
 ## Features
 - **Audio input**: microphone (browser recorder) or file upload
